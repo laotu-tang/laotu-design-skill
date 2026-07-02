@@ -24,7 +24,7 @@
 **你看到这篇 README 里的每一个动画，都是 huashu-design 自己做的。** 不是 Figma，不是 AE，就是一句话 prompt + skill 跑通。下次产品发布要做宣传片？现在你也能做。
 
 ```
-npx skills add alchaincyf/huashu-design
+npx skills add laotu-tang/laotu-design-skill
 ```
 
 跨 agent 通用——Claude Code、Cursor、Codex、OpenClaw、Hermes 都能装。
@@ -64,7 +64,7 @@ npx skills add alchaincyf/huashu-design
 ## 装上就能用
 
 ```bash
-npx skills add alchaincyf/huashu-design
+npx skills add laotu-tang/laotu-design-skill
 ```
 
 然后在 Claude Code / Codex / Cursor 等任意支持 skills 的 agent 里直接说话：
