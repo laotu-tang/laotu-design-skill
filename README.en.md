@@ -40,12 +40,12 @@ npx skills add laotu-tang/laotu-design-skill
 ---
 
 <p align="center">
-  <video src="https://github.com/alchaincyf/huashu-design/releases/download/v2.0/hero-animation-v10-en.mp4" autoplay muted loop playsinline width="100%">
-    Your browser doesn't support inline video. <a href="https://github.com/alchaincyf/huashu-design/releases/download/v2.0/hero-animation-v10-en.mp4">Download MP4</a>.
+  <video src="https://github.com/laotu-tang/laotu-design-skill/releases/download/v2.0/hero-animation-v10-en.mp4" autoplay muted loop playsinline width="100%">
+    Your browser doesn't support inline video. <a href="https://github.com/laotu-tang/laotu-design-skill/releases/download/v2.0/hero-animation-v10-en.mp4">Download MP4</a>.
   </video>
 </p>
 
-<p align="center"><sub>▲ 10-second hero animation showing what huashu-design does (<a href="https://github.com/alchaincyf/huashu-design/releases/download/v2.0/hero-animation-v10-en.mp4">download MP4</a> if autoplay doesn't work)</sub></p>
+<p align="center"><sub>▲ 10-second hero animation showing what huashu-design does (<a href="https://github.com/laotu-tang/laotu-design-skill/releases/download/v2.0/hero-animation-v10-en.mp4">download MP4</a> if autoplay doesn't work)</sub></p>
 
 ---
 
